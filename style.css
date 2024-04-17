@@ -1021,8 +1021,8 @@ body {
 .why-choose .choose-right {
   height: 100%;
   width: 100%;
-  background-image: url("./img/karamyogis\ img.jpeg");
-  background-size: cover;
+  background-image: url("./img/Picsart_24-04-12_11-00-11-215\ \(1\).jpg");
+  background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
   position: relative;
@@ -4308,6 +4308,10 @@ color: white;
   padding: 20px 30px;
   border-radius: 15px;
   background-color: white;
-  color: #0d9dda;
+  color: #C1DBFE;
   font-weight: 500;
+}
+
+.form-group input , .form-group textarea{
+  border: 1px solid #01b2b7 !important;
 }
